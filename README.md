@@ -14,5 +14,3 @@ Atualmente o repositório está em construção.
 
 Vamos aprender a fazer um commit local.
 
-(alterei)
-
